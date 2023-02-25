@@ -1,3 +1,3 @@
 <?php
-echo "Ditambahkan via github";
+echo "Ditambahkan via github ke 2";
 ?>
