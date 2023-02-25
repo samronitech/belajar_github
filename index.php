@@ -1,3 +1,3 @@
 <?php
-echo "Belajar Github";
+echo "Belajar Github ditambahkan dari local";
 ?>
